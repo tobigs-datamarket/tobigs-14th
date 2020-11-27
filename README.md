@@ -31,8 +31,8 @@
 | 3week | [군집분석](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/3wk_KNN%26Clustering/Clustering(1)_14%EA%B8%B0%20%EC%9E%A5%ED%98%9C%EB%A6%BC.ipynb) | 14기 장혜림 |
 | 3week | [군집분석](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/3wk_KNN%26Clustering/Clustering(2)_14%EA%B8%B0%20%EA%B9%80%EB%AF%BC%EA%B2%BD.ipynb) | 14기 김민경 |
 | 3week | [NaiveBayes](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/3wk_%EB%82%98%EC%9D%B4%EB%B8%8C%EB%B2%A0%EC%9D%B4%EC%A6%88%26%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4/%EB%82%98%EC%9D%B4%EB%B8%8C%EB%B2%A0%EC%9D%B4%EC%A6%88_14%EA%B8%B0%20%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb) | 14기 정재윤 |
-| 3week | 의사결정나무 \(1\)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/3wk_%EB%82%98%EC%9D%B4%EB%B8%8C%EB%B2%A0%EC%9D%B4%EC%A6%88%26%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4(1)_14%EA%B8%B0%20%EA%B9%80%EC%9C%A4%EC%88%98.ipynb) | 14기 김윤수 |
-| 3week | 의사결정나무 \(2\)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/3wk_%EB%82%98%EC%9D%B4%EB%B8%8C%EB%B2%A0%EC%9D%B4%EC%A6%88%26%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4(2)_14%EA%B8%B0%20%EC%84%9C%EC%95%84%EB%9D%BC.ipynb) | 14기 서아라 | 
+| 3week | [의사결정나무 \(1\)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/3wk_%EB%82%98%EC%9D%B4%EB%B8%8C%EB%B2%A0%EC%9D%B4%EC%A6%88%26%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4(1)_14%EA%B8%B0%20%EA%B9%80%EC%9C%A4%EC%88%98.ipynb) | 14기 김윤수 |
+| 3week | [의사결정나무 \(2\)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/3wk_%EB%82%98%EC%9D%B4%EB%B8%8C%EB%B2%A0%EC%9D%B4%EC%A6%88%26%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4(2)_14%EA%B8%B0%20%EC%84%9C%EC%95%84%EB%9D%BC.ipynb) | 14기 서아라 | 
 | 4week | [SVM \(1\)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/4wk_SVM/SVM_14%EA%B8%B0%20%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb) | 14기 정재윤 |
 | 4week | [앙상블 \(1\)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/4wk_%EC%95%99%EC%83%81%EB%B8%94/%EC%95%99%EC%83%81%EB%B8%94(1)_14%EA%B8%B0%20%EA%B9%80%EC%9C%A4%EC%88%98.ipynb) | 14기 김윤수 |
 | 4week | [앙상블 \(2\)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/4wk_%EC%95%99%EC%83%81%EB%B8%94/%EC%95%99%EC%83%81%EB%B8%94(2)_14%EA%B8%B0%20%EA%B0%95%EC%9D%98%EC%A0%95.ipynb) | 14기 강의정 |
@@ -52,6 +52,8 @@
 | 9week | [모델 심화(ResNet)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/9wk_%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94/%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94(ResNet)_14%EA%B8%B0%20%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb) | 14기 정재윤 |
 | 9week | [모델 심화(Transformer)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/9wk_%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94/%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94(Transformer)_14%EA%B8%B0%20%EC%A0%95%EC%84%B8%EC%98%81.ipynb) | 14기 정세영 |
 | 9week | [모델 심화(Transformer)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/9wk_%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94/%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94(Transformer)_14%EA%B8%B0%20%EC%A0%95%EC%84%B8%EC%98%81.ipynb) | 14기 정세영 |
-
+| 10week | [비지도 & 생성모델(DCGAN paper)] | 14기 정재윤 |
+| 10week | [비지도 & 생성모델(DCGAN code)] | 14기 김윤수 |
+| 10week | [비지도 & 생성모델(DCGAN code)] | 14기 정재윤 |
 
 [공식 홈페이지](http://www.datamarket.kr/xe/page_QEhq64)
