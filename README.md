@@ -20,7 +20,7 @@
 
 [공식 홈페이지](http://www.datamarket.kr/xe/page_QEhq64)
 
-[GitBook](https://tobigs.gitbook.io/tobigs/)
+[google sites](https://sites.google.com/view/1314tobigs/about-tobigs)
 
 | 주차 | 강의명 | 우수과제자 |
 | :--- | :--- | :--- |
@@ -52,8 +52,6 @@
 | 9week | [모델 심화(ResNet)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/9wk_%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94/%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94(ResNet)_14%EA%B8%B0%20%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb) | 14기 정재윤 |
 | 9week | [모델 심화(Transformer)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/9wk_%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94/%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94(Transformer)_14%EA%B8%B0%20%EC%A0%95%EC%84%B8%EC%98%81.ipynb) | 14기 정세영 |
 | 9week | [모델 심화(Transformer)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/9wk_%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94/%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94(Transformer)_14%EA%B8%B0%20%EC%A0%95%EC%84%B8%EC%98%81.ipynb) | 14기 정세영 |
-| 10week | [비지도 & 생성모델(DCGAN paper)] | 14기 정재윤 |
-| 10week | [비지도 & 생성모델(DCGAN code)] | 14기 김윤수 |
-| 10week | [비지도 & 생성모델(DCGAN code)] | 14기 정재윤 |
+
 
 [공식 홈페이지](http://www.datamarket.kr/xe/page_QEhq64)
