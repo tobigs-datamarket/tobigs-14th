@@ -52,8 +52,8 @@
 | 9week | [모델 심화(ResNet)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/9wk_%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94/%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94(ResNet)_14%EA%B8%B0%20%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb) | 14기 정재윤 |
 | 9week | [모델 심화(Transformer)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/9wk_%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94/%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94(Transformer)_14%EA%B8%B0%20%EC%A0%95%EC%84%B8%EC%98%81.ipynb) | 14기 정세영 |
 | 9week | [모델 심화(Transformer)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/9wk_%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94/%EB%AA%A8%EB%8D%B8%EC%8B%AC%ED%99%94(Transformer)_14%EA%B8%B0%20%EC%A0%95%EC%84%B8%EC%98%81.ipynb) | 14기 정세영 |
-| 10week | 비지도 & 생성모델(DCGAN paper) | 14기 정재윤 |
-| 10week | 비지도 & 생성모델(DCGAN code) | 14기 김윤수 |
-| 10week | 비지도 & 생성모델(DCGAN code) | 14기 정재윤 |
+| 10week | [비지도 & 생성모델(DCGAN paper)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/10wk_%EB%B9%84%EC%A7%80%EB%8F%84%26%EC%83%9D%EC%84%B1%EB%AA%A8%EB%8D%B8/%EB%B9%84%EC%A7%80%EB%8F%84%26%EC%83%9D%EC%84%B1%EB%AA%A8%EB%8D%B8(DCGAN%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0)_14%EA%B8%B0%20%EC%A0%95%EC%9E%AC%EC%9C%A4.ipynb) | 14기 정재윤 |
+| 10week | [비지도 & 생성모델(DCGAN code)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/10wk_%EB%B9%84%EC%A7%80%EB%8F%84%26%EC%83%9D%EC%84%B1%EB%AA%A8%EB%8D%B8/%EB%B9%84%EC%A7%80%EB%8F%84%26%EC%83%9D%EC%84%B1%EB%AA%A8%EB%8D%B8(DCGANcode)_14%EA%B8%B0%20%EA%B9%80%EC%9C%A4%EC%88%98/model.py) | 14기 김윤수 |
+| 10week | [비지도 & 생성모델(DCGAN code)](https://github.com/tobigs-datamarket/tobigs-14th/blob/master/10wk_%EB%B9%84%EC%A7%80%EB%8F%84%26%EC%83%9D%EC%84%B1%EB%AA%A8%EB%8D%B8/%EB%B9%84%EC%A7%80%EB%8F%84%26%EC%83%9D%EC%84%B1%EB%AA%A8%EB%8D%B8(DCGANcode)_14%EA%B8%B0%20%EC%A0%95%EC%9E%AC%EC%9C%A4/model_tobigs.py) | 14기 정재윤 |
 
 [공식 홈페이지](http://www.datamarket.kr/xe/page_QEhq64)
